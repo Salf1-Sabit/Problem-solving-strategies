@@ -1,0 +1,20 @@
+# Sidenotes for team contest: 
+  - Always keep coding and keep commenting each section (for easy debugging)
+  (Short + meaningful) variable name (for easy debugging) 
+  - Keep testing each part while you're coding (To save time later). Making sure that each section working properly.
+  - Use cin.ignore() before running a loop for string input
+  - Sample inputs are fooling you. There is most probably a hidden test case which is going to break your code if your solution only satisfies test cases similar to that of the sample.
+  - Try to write brute force (for testing accuracy of a solution) when all team-mates gets confused (only for hard problems). 
+
+# Problem solving strategies (Individual + Team contest):
+  - While solving problems, work on your weaker sides.
+  - Rubber Duck strategy: talk with yourself while solving problems. Force yourself to learn.
+  - Start writing brute force for problems which you find atleast a little bit of hard. This can also help to see you the patterns on the outputs (if there are any)
+  - Always think about the brute force Then, keep squeezing this by optimizing part by part.
+  - Start solving the problem in an incremental manner. Start solving for little constraints and then gradually for the larger ones.
+  - If you cannot think of any algorithm for a problem, then try to decompose to every algorithm you know, one by one. (Happened with us few times - e.g. Trie problem)
+  - In every 2 weeks, 1 contest is more than enough. But in the meantime, offline practice is important. (Offile practice: Individual practice)
+  - In team contest, whenever you get Wrong Answer (WA), handover the PC to your teammate and print your code and debug it (consume atmost 5 minutes on the PC while debugging - e.g. we've also face this problem many times). 
+  - Whenever you get stucked at any idea or cannot generate any idea change the environment. (E.g. walking, going to the washroom. Changing environment increases the clarity of your brain).
+  - In team contest, don't watch the standings. If it is necessary to know which problems are solved, only see the statistics/dashboard of problems.
+  - In team contest, try to write more global functions to keep the code and main function clean (So, that it is more easy to debug and understandable for everyone in the team. 
