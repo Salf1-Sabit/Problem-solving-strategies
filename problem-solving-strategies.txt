@@ -18,3 +18,9 @@
   - Whenever you get stucked at any idea or cannot generate any idea change the environment. (E.g. walking, going to the washroom. Changing environment increases the clarity of your brain).
   - In team contest, don't watch the standings. If it is necessary to know which problems are solved, only see the statistics/dashboard of problems.
   - In team contest, try to write more global functions to keep the code and main function clean (So, that it is more easy to debug and understandable for everyone in the team. 
+
+# Links for making Codebooks: 
+  - https://github.com/Erfaniaa/codes2pdf
+  - https://github.com/pin3da/notebook-generator
+  - https://github.com/pin3da/Programming-contest/blob/master/codes/notebook.pdf
+
